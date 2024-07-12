@@ -1,0 +1,5 @@
+npm install -g @nestjs/cli
+nest new project-name
+npm install @nestjs/serve-static
+npm install @types/express
+npm run start
